@@ -1,0 +1,3 @@
+([('ManorRun',
+   '/Users/Julian/Documents/CompSci/ManorProject/my-app/dist/ManorRun',
+   'EXECUTABLE')],)
