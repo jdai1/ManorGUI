@@ -19,4 +19,4 @@ progress.
 
 ## Installation
 
-While a stand-alone executable of the ManorGUI could be downloaded from the terminal/command-line with 'pyinstaller --onefile -w ManorRun.py', the maven installation offers a simpler and more effective download. Once the pom.xml, src, and target folders are successfully downloaded, navigate to the folder containing the files. Run 'mvn install'
+While a stand-alone executable of the ManorGUI could be downloaded from the terminal/command-line with 'pyinstaller --onefile -w ManorRun.py', the maven installation offers a simpler and more effective download. Once the pom.xml, src, and target folders are successfully downloaded, navigate to the folder containing the files. Run 'mvn install' within the Manor-maven folder, generating the contents displayed within the pyinstaller executable. Within the distributable (dist) folder, the application can then be opened.
